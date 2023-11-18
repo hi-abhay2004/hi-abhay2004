@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay J Sharma</h1>
-<h3 align="center">Trying to make ideas come true 😉 2nd Year Undergraduate 🙂</h3>
+<h3 align="center">Trying to make ideas come true 😉 3rd Year Undergraduate 🙂</h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT**
 
