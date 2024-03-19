@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay J Sharma</h1>
 <h3 align="center">Trying to make ideas come true 😉 3rd Year Undergraduate 🙂</h3>
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **REACT JS AND MUI**
 
-- 💬 Ask me about **CPP,JAVA,PYTHON,SQL,HTML,CSS**
+- 💬 Ask me about **CPP,JAVA,PYTHON,SQL,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **abhayjsharma440@gmail.com**
 
