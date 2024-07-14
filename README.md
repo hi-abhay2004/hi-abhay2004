@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay J Sharma</h1>
 <h3 align="center">Trying to make ideas come true 😉 3rd Year Undergraduate 🙂</h3>
 
-- 🌱 I’m currently learning **REACT JS AND MUI**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **CPP, JAVA, PYTHON, SQL, HTML, CSS, JAVASCRIPT**
 
